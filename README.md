@@ -1,5 +1,5 @@
 To play:
-once downlaoded you should see mathgame with the tag application and the unity logo, just double click on mathgame and it should run
+once downloaded you should see mathgame with the tag application and the unity logo, just double click on mathgame and it should run
 <img width="636" height="298" alt="image" src="https://github.com/user-attachments/assets/0d9d149b-2552-4050-845f-0a5c9a214119" />
 
 
